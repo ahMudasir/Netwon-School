@@ -5,3 +5,5 @@ sir.addEventListener("click", function(){
 
     prompt("I am clicked")
 });
+
+alert("heloo brovi");
