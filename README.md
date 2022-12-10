@@ -5,5 +5,6 @@ These are some usefull commands of git hub
 3. git branch
 4. git push origin (branch name)
 
-So u want to pull code from Git hub use the command
+If u want to pull code from Git hub to VS editor 
+Use the following command
 1. git pull origin (branch name)
