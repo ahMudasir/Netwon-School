@@ -7,4 +7,4 @@ These are some usefull commands of git hub
 
 If u want to pull code from Git hub to VS editor 
 Use the following command
-1. git pull origin (branch name)
+1. git pull origin (branch name).
